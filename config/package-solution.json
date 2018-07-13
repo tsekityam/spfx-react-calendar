@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-calendar-client-side-solution",
+    "id": "71c7d6a7-aff2-411e-9cbd-5ab373b6e97a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-calendar.sppkg"
+  }
+}

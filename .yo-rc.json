@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "yarn",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "react-calendar",
+    "libraryId": "71c7d6a7-aff2-411e-9cbd-5ab373b6e97a",
+    "componentType": "webpart"
+  }
+}
